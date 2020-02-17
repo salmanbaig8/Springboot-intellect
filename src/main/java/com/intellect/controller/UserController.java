@@ -15,7 +15,6 @@ import com.intellect.model.UserResponseDTO;
 import com.intellect.service.UserService;
 
 @RestController
-@EnableAutoConfiguration
 @RequestMapping("User")
 public class UserController {
 
